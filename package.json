@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pug": "^3.0.2",
+    "validator": "^13.7.0",
+    "validatore": "^1.0.1"
+  }
+}
